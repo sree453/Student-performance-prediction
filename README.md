@@ -290,12 +290,9 @@ Student_Performance_Prediction/
 
 │
 ├── app.py
-├── decision_tree_model.pkl
-├── encoders.pkl
 ├── student-mat.csv
 ├── requirements.txt
 ├── README.md
-└── DecisionTree.ipynb
 ```
 
 ---
